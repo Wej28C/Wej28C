@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Wejdane Bouchhioua
 ==========================================================================================================================================
 
-Software engineer | HPC, Simulation and AI enthousiast.
+Software engineer | HPC, Simulation and AI enthusiast.
 -------------------------------------------------------
 
 I bring a robust foundation in software development and computational technologies, enhanced by rich international experiences that have honed my expertise in image processing, machine learning, and numerical simulation. My passion lies in harnessing cutting-edge technologies to tackle complex computational challenges across diverse fields, with a special focus on bioinformatics, data analysis, and automated systems. With a proven track record in programming, database management, and network administration, I am committed to applying my skills in High-Performance Computing (HPC) and simulation to real-world scenarios. I strive to push the limits of computational performance and scalability, driving innovation in every project I undertake.
